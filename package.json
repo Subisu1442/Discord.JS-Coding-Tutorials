@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Subisu1442/Discord.JS-Coding-Tutorials/issues"
   },
-  "homepage": "https://github.com/Subisu1442/Discord.JS-Coding-Tutorials#readme"
+  "homepage": "https://github.com/Subisu1442/Discord.JS-Coding-Tutorials#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
 }
