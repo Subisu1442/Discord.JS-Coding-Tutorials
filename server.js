@@ -1,5 +1,7 @@
 const Discord = require('discord.js');
 const botsettings = require('./botsettings.json');
+const moment = require('moment');
+const randomPuppy = require('random-puppy');
 
 const bot = new Discord.Client({disableEveryone: true});
 

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Subisu1442/Discord.JS-Coding-Tutorials#readme",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0"
   }
 }
