@@ -4,7 +4,7 @@ const botsettings = require('./botsettings.json');
 const bot = new Discord.Client({disableEveryone: true});
 
 bot.on("guildMemberAdd", member => {
-    const welcomeChannel = member.guild.channels.cache.find(channel => channel.name === 'welcome')
+    const welcomeChannel = member.guild.channels.cache.find(channel => channel.name === 'report')
     welcomeChannel.send (`Welcome! ${member}`)
 })
 
@@ -46,4 +46,4 @@ bot.on("message", async message => {
 
 })
 
-bot.login(botsettings.token);
+bot.login(process.env.token);
