@@ -1,0 +1,19 @@
+{
+  "name": "subisu-bot",
+  "version": "1.8.1",
+  "description": "➽ Official GitHub of DashCraft on YouTube, Discord.JS Coding Tutorials v12, \r By Poryafm12 (DashCraft)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subisu1442/Discord.JS-Coding-Tutorials.git"
+  },
+  "author": "subisu#0017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subisu1442/Discord.JS-Coding-Tutorials/issues"
+  },
+  "homepage": "https://github.com/Subisu1442/Discord.JS-Coding-Tutorials#readme"
+}
